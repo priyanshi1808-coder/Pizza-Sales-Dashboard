@@ -38,5 +38,6 @@ Clear visual comparison of categories and pizza sizes
 KPI cards for quick insight into overall performance
 
 Screenshot -:  https://github.com/priyanshi1808-coder/Pizza-Sales-Dashboard/blob/main/Screenshot%202025-09-27%20142959.png
+https://github.com/priyanshi1808-coder/Pizza-Sales-Dashboard/blob/main/Screenshot%202025-09-27%20143313.png
 
 
